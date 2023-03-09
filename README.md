@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/RajputBharat/RajputBharat/blob/main/20230309_214750.png)]
+![MasterHead](https://github.com/RajputBharat/RajputBharat/blob/main/20230309_214750.png)
 <hr>
 <h1 align="center">I'm <a href="https://github.com/RajputBharat">Bharat Rajput<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <img align="right" alt="Coding" width="400" src="https://github.com/RajputBharat/RajputBharat/blob/main/ezgif.com-video-to-gif.gif">
@@ -13,6 +13,8 @@
 - ⚡  Fun fact: I'm always preffer to listen music in My free time
   
 <hr>
+<Br>
+<Br>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
