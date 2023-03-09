@@ -1,7 +1,4 @@
 [![MasterHead](https://github.com/RajputBharat/RajputBharat/blob/main/20230309_214750.png)
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
-</p>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/RajputBharat">Bharat Rajput<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <img align="right" alt="Coding" width="400" src="https://github.com/RajputBharat/RajputBharat/blob/main/ezgif.com-video-to-gif.gif">
@@ -9,9 +6,9 @@
 <h1>About Me! 😎</h1>
 
 - 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+- 🌱: I’m currently learning Neural Networks and Deep Learning.
+- 🤔: I’m looking for help with anything I am currently learning!
+- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms.
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I'm always preffer to listen music in My free time
   
