@@ -1,4 +1,4 @@
-![MasterHead]([https://github.com/RajputBharat/RajputBharat/blob/main/20230309_214750.png](https://github.com/RajputBharat/RajputBharat/blob/main/Profil%20Banner.png))
+![MasterHead](https://github.com/RajputBharat/RajputBharat/blob/main/Profil%20Banner.png)
 <hr>
 <h1 align="center">I'm <a href="https://github.com/RajputBharat">Bharat Rajput<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <img align="right" alt="Coding" width="400" src="https://github.com/RajputBharat/RajputBharat/blob/main/ezgif.com-video-to-gif.gif">
